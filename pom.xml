@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ethereal</groupId>
-    <artifactId>video-height</artifactId>
+    <artifactId>springboot-swing</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>video-height</name>
+    <name>springboot-swing</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
